@@ -1,0 +1,9 @@
+[package]
+name = "categorical-coordination"
+version = "0.1.0"
+edition = "2021"
+description = "Category theory abstractions for multi-agent coordination: functors, natural transformations, limits, and colimits"
+license = "MIT"
+repository = "https://github.com/SuperInstance/categorical-coordination"
+
+[dependencies]
